@@ -14,8 +14,6 @@ Add basic dependencies:
 yarn add --dev hardhat @vechain/web3-providers-connex @vechain/hardhat-vechain @vechain/hardhat-web3 @vechain/hardhat-ethers
 ```
 
-Noteworthy is the use of ethers in v5, due an incompatibility with the `@vechain/hardhat-vechain` module.
-
 # Init Hardhat
 
 Using hardhat, a template project can be created:
